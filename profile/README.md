@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/rainwater-app-icon.png" alt="Rainwater" width="120" />
+</p>
+
 # Rainwater
 
 Rainwater builds local-first trading research and workflow tools for traders who want visible systems, reproducible research, and operator-grade tooling.
